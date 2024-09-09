@@ -1,4 +1,4 @@
-const  express = require("express");
+const express = require("express");
 
 const app = express();
 
@@ -8,7 +8,7 @@ app.use((req, res) => {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Text</title>
+    <title>Jabbar Amlak</title>
     <style>
         body {
             margin: 0;
