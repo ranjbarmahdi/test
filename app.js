@@ -16,7 +16,7 @@ app.use((req, res) => {
             display: flex;
             justify-content: center;
             align-items: center;
-            font-size: 250px; /* Adjust size as needed */
+            font-size: 350px; /* Adjust size as needed */
             font-weight: bold;
         }
     </style>
