@@ -22,7 +22,7 @@ app.use((req, res) => {
     </style>
 </head>
 <body>
-    <span style="color:red">J</span>A<span style="color:brown">B</span>BA<span style="color:red">B</span>
+    <span style="color:red">J</span>A<span style="color:brown">B</span>BA<span style="color:red">R</span>
 </body>
 </html>
 `);
